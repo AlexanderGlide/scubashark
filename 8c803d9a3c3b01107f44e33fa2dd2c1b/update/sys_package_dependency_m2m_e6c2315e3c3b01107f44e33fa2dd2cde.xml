@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Configuration Management (CMDB)" source="com.snc.cmdb">c94628eb551201107f44d7f62dcafef5</dependency>
+        <min_version>1.1</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 13:46:22</sys_created_on>
+        <sys_id>e6c2315e3c3b01107f44e33fa2dd2cde</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Scuba Shark LLC" source="x_cdltd_scuba_shar">8c803d9a3c3b01107f44e33fa2dd2c1b</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 13:46:22</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

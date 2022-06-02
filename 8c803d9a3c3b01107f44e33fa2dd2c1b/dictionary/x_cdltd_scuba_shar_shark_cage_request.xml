@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb" label="shark cage request" max_length="40" name="x_cdltd_scuba_shar_shark_cage_request" type="collection"/>
+</database>
